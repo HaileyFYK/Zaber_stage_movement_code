@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project uses Python to control Zaber motorized stages for a brain phantom setup used in PET imaging research. The system allows for controlled movement and positioning of a brain phantom to explore different positions, orientations, and motion patterns.
+This project uses Python to control Zaber motorized stages for a brain phantom setup used in PET imaging research at Yale School of Medicine. The system allows for controlled movement and positioning of a brain phantom to explore different positions, orientations, and motion patterns.
 
 The code includes functions for linear and rotational movement, multi-axis coordination, position management, and motion control. These capabilities help simulate different types of head movement and adjust the brain phantom's position during experimental testing.
 
-## Project Objectives
+## Objectives
 
 - Control Zaber linear and rotational stages through Python.
 - Adjust the position and orientation of a brain phantom.
@@ -50,7 +50,3 @@ The code includes functions for linear and rotational movement, multi-axis coord
 - **Python** — Motion-control programming
 - **Zaber motorized stages** — Precise linear and rotational positioning
 - **Zaber Motion Library** — Device communication and motion control, if used by the scripts
-
-## Acknowledgments
-
-Developed as part of a brain phantom motion-control project involving Zaber motorized stages and Python programming for PET imaging research at Yale.
